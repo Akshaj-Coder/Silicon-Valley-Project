@@ -4,7 +4,7 @@
 How to download the game:
 
 Step 1: Download this repository.
-Step 2: Use the password approvided in the submission application to extract the zip file contents/main game.
+Step 2: Use the password provided in the submission application to extract the zip file contents/main game.
 Step 3: Run the "SunnyLand.exe" file to play the game (no installation is required).
 
 
