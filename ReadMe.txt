@@ -11,7 +11,7 @@ Step 3: Run the "SunnyLand.exe" file to play the game (no installation is requir
 Controls:
 
 Arrow Keys- for movement
-Space- For jumping
+Space bar - For jumping
 
 
 About Game:
