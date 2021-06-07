@@ -23,3 +23,5 @@ If you touch the frog you loose your life and the game ends.
 
 
 (Please download WinRAR for extracting the zip file)
+
+WinRAR download: https://www.win-rar.com/start.html?&L=0
