@@ -22,4 +22,4 @@ You may choose to skip over the frog to move on; but you won't earn any points.
 If you touch the frog you loose your life and the game ends.
 
 
-(Please download WinRAR)
+(Please download WinRAR for extracting the zip file)
